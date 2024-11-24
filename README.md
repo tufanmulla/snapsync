@@ -15,7 +15,7 @@ SnapSync is a platform designed to offer users a visually engaging experience as
 
 ## Website URL
 
-You can access the website here: [RayEnergies](https://snapsync.vercel.app/)
+You can access the website here: [SnapSync](https://snapsync.vercel.app/)
 
 ## Technologies Used
 
